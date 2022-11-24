@@ -1,6 +1,6 @@
 # Quarto reveal.js template - Startupengineer
 
-This is a repository for `Quarto` `reveal.js` template.
+This is a repository for `Quarto` `reveal.js` template. Click [here](https://jwarz.github.io/quarto-startupengineer-theme/) for a preview.
 
 ## Dark Mode
 
