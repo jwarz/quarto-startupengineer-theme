@@ -20,7 +20,7 @@ sysfonts::font_add_google("Poppins", "poppinslight", regular.wt=200, bold.wt=500
 # font_add_google("Poppins", "Poppins")
 showtext::showtext_auto()
 # To Do: Create TIE ggplot theme
-source("_extensions/startupengineer/setup-ggplot2-tie.R")
+source("_extensions/jwarz/startupengineer/setup-ggplot2-tie.R")
 ```
 
 # In the morning {data-stack-name="In the morning"}
@@ -74,4 +74,4 @@ See https://lordicon.com/
 
 {{< li rjzlnunf trigger=loop speed=0.5 scale=50 colors="primary:#00C1D4,secondary:#005e73" >}}
 
-{{< include _extensions/startupengineer/about.qmd >}}
+{{< include _extensions/jwarz/startupengineer/about.qmd >}}
