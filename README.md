@@ -10,6 +10,11 @@ This is a repository for `Quarto` `reveal.js` template.
 
 ![Screenshot of the title slide in light mode](light_mode.png)
 
+## Features
+
+* Toggle Light & Dark Mode
+* Toggle Fullscreen Button
+* Progress Menu Bar
 
 ## Installation
 
