@@ -1,23 +1,25 @@
-# Startupengineer Extension For Quarto
+# Quarto reveal.js template - Startupengineer
 
-_TODO_: Add a short description of your extension.
+This is a repository for `Quarto` `reveal.js` template.
 
-## Installing
+## Dark Mode
 
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
+![Screenshot of the title slide in dark mode](dark_mode.png)
+
+## Dark Mode
+
+![Screenshot of the title slide in light mode](light_mode.png)
+
+
+## Installation
+
+This [Quarto](quarto.org) template can be installed/used using the following command:
 
 ```bash
-quarto add <github-organization>/startupengineer
+quarto use template jwarz/quarto-startupengineer-theme
 ```
 
-This will install the extension under the `_extensions` subdirectory.
-If you're using version control, you will want to check in this directory.
+## Documentation
 
-## Using
-
-_TODO_: Describe how to use your extension.
-
-## Example
-
-Here is the source code for a minimal example: [example.qmd](example.qmd).
+[`Quarto` documentation on `reveal.js` format.](https://quarto.org/docs/presentations/revealjs/)
 
